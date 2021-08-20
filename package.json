@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0",
+    "one-liner-joke": "^1.2.2"
+  }
+}
